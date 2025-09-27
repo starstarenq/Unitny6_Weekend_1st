@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2e5bfcfe2cdfb7941bee5a23bbc1eca3
+guid: 0c0f8f46bcc6f914f97a91b3511bdac0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4120955195336003847
-    second: Mario_0
+      213: -9027530827154965358
+    second: tile_0075_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mario_0
+      name: tile_0075_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 303
-        height: 166
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7019d499ae2903930800000000000000
-      internalID: 4120955195336003847
+      spriteID: 29c3a88ea84c7b280800000000000000
+      internalID: -9027530827154965358
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mario_0: 4120955195336003847
+      tile_0075_0: -9027530827154965358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
